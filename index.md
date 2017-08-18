@@ -4,7 +4,7 @@
 ## [MMD Player](/mmdMeiko/)
 Play with threejs mmd module
 
-## [Liquid Sim](/liquidFunSim/)
+## [Liquid Sim](/liquidSim/)
 Box2D with particle physics
 
 ## To be continued...
