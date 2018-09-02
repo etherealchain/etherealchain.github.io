@@ -8,7 +8,7 @@ Play with threejs mmd module
 Box2D with particle physics
 
 ## [王者の祭典](/oujanosaitenn/)
-A mini game I made for interview
+A mini game I made for an interview
 
 Doesn't work on mobile
 
