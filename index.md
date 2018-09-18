@@ -1,5 +1,5 @@
-# Hi, I'm Ethan, welcome to my lab
-**Here I experiment on various topics with web tech**
+# Hi, I'm Ethan, welcome to my playground
+# Check out my [resume](https://sites.google.com/view/ethan-resume)
 
 ## [MMD Player](/mmdMeiko/)
 Play with threejs mmd module
