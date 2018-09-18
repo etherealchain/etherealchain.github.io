@@ -1,5 +1,5 @@
 # Hi, I'm Ethan, welcome to my lab
-# [resume](https://sites.google.com/view/ethan-resume)
+# [Resume](https://sites.google.com/view/ethan-resume)
 
 ## [MMD Player](/mmdMeiko/)
 Play with threejs mmd module
