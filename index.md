@@ -1,4 +1,4 @@
-# Hi, I'm Ethan, welcome to my playground
+# Hi, I'm Ethan, welcome to my lab
 # Check out my [resume](https://sites.google.com/view/ethan-resume)
 
 ## [MMD Player](/mmdMeiko/)
