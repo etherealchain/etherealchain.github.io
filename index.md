@@ -1,4 +1,3 @@
-# Hi, I'm Ethan, welcome to my lab
 # [Resume](https://sites.google.com/view/ethan-resume)
 
 ## [MMD Player](/mmdMeiko/)
