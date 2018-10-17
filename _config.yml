@@ -1,7 +1,3 @@
 theme: jekyll-theme-architect
 title: Coding n Design 
 description: Hi, I'm Ethan. Welcome to my playground
-gems:
-  - jekyll-seo-tag
-logo: /card.jpg
-image: https://github.com/etherealchain/etherealchain.github.io/blob/master/card.jpg
