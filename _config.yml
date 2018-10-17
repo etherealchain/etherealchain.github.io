@@ -3,4 +3,5 @@ title: Coding & Design
 description: Hi, I'm Ethan. Welcome to my playground
 gems:
   - jekyll-seo-tag
+logo: /card.jpg
 image: /card.jpg
