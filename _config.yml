@@ -4,4 +4,4 @@ description: Hi, I'm Ethan. Welcome to my playground
 gems:
   - jekyll-seo-tag
 logo: /card.jpg
-image: /card.jpg
+image: https://github.com/etherealchain/etherealchain.github.io/blob/master/card.jpg
