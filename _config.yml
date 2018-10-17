@@ -1,5 +1,6 @@
 theme: jekyll-theme-architect
 title: Coding & Design
 description: Hi, I'm Ethan. Welcome to my playground
+logo:/card.jpg
 plugins:
   - jekyll-seo-tag
